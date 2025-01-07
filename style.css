@@ -37,10 +37,6 @@ section{
     white-space: pre-line;
     font-size: 3.5em;
 }
-section:hover {
-    transform: scale(1.01);
-    transition: transform 0.3s ease-in-out;
-}
 #b{
     background-image: url(imagens/background001.jpg);
     background-origin: border-box;
